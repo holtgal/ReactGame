@@ -1,6 +1,9 @@
 ![Image of Screenshot](https://serving.photos.photobox.com/7614257834bf8125e2f28e8d4f7a446a7153124b5c6110a47fa73a6ee57235ad0c4391c7.jpg)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Game Instructions
+Try to click on every piece of art once. When you click a piece of art the grid will automatically shuffle. The goal of the game is click all 12 pictures once despite the shuffled grid. If you click any piece of art twice the game will reset and you must begin again!
+
 ## Available Scripts
 
 In the project directory, you can run:
